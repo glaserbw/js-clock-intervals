@@ -5,21 +5,21 @@
 }
 
 #clock img {
-
+	position: absolute;
 }
 
 #hour {
-	position: absolute;
+	/*position: absolute;*/
 }
 
 #minute {
-	position: absolute;
+	/*position: absolute;*/
 }
 
 #second {
-	position: absolute;
+	/*position: absolute;*/
 }
 
 #face {
-	position: absolute;
+	/*position: absolute;*/
 }

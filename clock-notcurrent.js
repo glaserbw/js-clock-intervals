@@ -9,7 +9,7 @@ var minuteHand = document.getElementById("minute");
 var secondHand = document.getElementById("second");
 
 //define rotation logic for seconds hand
-var secondDegrees = 0
+var secondDegrees = 0;
 
 var rotateSecondHand = function(){
 	secondHand.style.transform = "rotate(" + (secondDegrees += 6) + "deg)";
